@@ -1,8 +1,6 @@
 {
   "pages": [
-    "pages/logs/logs",
-    "pages/index/index",
-    "pages/login/login"
+    "pages/index/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -11,18 +9,5 @@
     "navigationBarTextStyle": "black",
     "enablePullDownRefresh": true,
     "backgroundColor": "#000"
-  },
-  "tabBar": {
-    "list": [{
-      "pagePath": "pages/index/index",
-      "text": "text",
-      "iconPath": "zy/IT.png",
-      "selectedIconPath": "zy/2.png"
-    },{
-      "pagePath": "pages/logs/logs",
-      "text": "text",
-      "iconPath": "zy/get.png",
-      "selectedIconPath": "zy/1.png"
-    }]
   }
 }
