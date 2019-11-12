@@ -1,0 +1,8 @@
+<!--logs.wxml-->
+<view class="container log-list">
+11111111111
+</view>
+<button size="mini" open-type="getUserInfo" bindgetuserinfo="getUserInfo1">获取授权</button>
+<open-data type="userNickName"></open-data>
+
+
